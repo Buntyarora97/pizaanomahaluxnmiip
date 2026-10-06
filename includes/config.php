@@ -1,13 +1,13 @@
 <?php
 // ============================================================
 // MAHALUXMI TRADING HOUSE - CONFIG
-// Edit these 4 values after uploading to cPanel.
+// Configure MySQL connection values with MTH_DB_* environment variables.
 // ============================================================
-define('DB_HOST', getenv('MTH_DB_HOST') ?: 'localhost');
-define('DB_NAME', getenv('MTH_DB_NAME') ?: 'u848520183_aassaa');
-define('DB_USER', getenv('MTH_DB_USER') ?: 'u848520183_aassaa');
-define('DB_PASS', getenv('MTH_DB_PASS') ?: 'Bunty@#000#@');
-// Both Hostinger and the Replit PHP app use MySQL.
+define('DB_DRIVER', strtolower((string)(getenv('MTH_DB_DRIVER') ?: 'mysql')));
+define('DB_HOST', getenv('MTH_DB_HOST') ?: '');
+define('DB_NAME', getenv('MTH_DB_NAME') ?: '');
+define('DB_USER', getenv('MTH_DB_USER') ?: '');
+define('DB_PASS', getenv('MTH_DB_PASS') ?: '');
 
 // Set MTH_SITE_URL on production if the site is behind a proxy. Otherwise
 // detect the current host so the same files work on cPanel and Replit.

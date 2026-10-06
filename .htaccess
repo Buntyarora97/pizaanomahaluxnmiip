@@ -16,9 +16,10 @@ RewriteRule ^product/([a-z0-9-]+)/?$ product.php?slug=$1 [L,QSA]
 RewriteRule ^blog/([a-z0-9-]+)/?$ article.php?slug=$1 [L,QSA]
 RewriteRule ^page/([a-z0-9-]+)/?$ page.php?slug=$1 [L,QSA]
 
-# Protect sensitive paths
-RewriteRule ^(?:includes|admin/includes|attached_assets|\.cache|\.git)(?:/|$) - [F,L]
-RewriteRule ^(?:database\.sql|README-INSTALLATION\.txt|zipFile\.zip)$ - [F,L]
+# Protect source files, imported user assets and local data
+RewriteRule ^(?:includes|admin/includes|attached_assets|\.agents|\.local|\.cache|\.git|var)(?:/|$) - [F,L,NC]
+RewriteRule ^(?:database\.sql|README-INSTALLATION\.txt|zipFile\.zip|php-router\.php|\.replit|\.gitignore|pyproject\.toml|uv\.lock|main\.py)$ - [F,L,NC]
+RewriteRule ^.*\.(?:sqlite|db|sql|log|pyc)$ - [F,L,NC]
 
 # Browser caching
 <IfModule mod_expires.c>

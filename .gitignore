@@ -1,0 +1,4 @@
+/var/
+/.pythonlibs/
+__pycache__/
+*.pyc
