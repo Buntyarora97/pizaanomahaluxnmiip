@@ -1,0 +1,3019 @@
+======================================================================
+ULTIMATE MASTER DEVELOPMENT PROMPT
+MAHALUXMI TRADING HOUSE PVT. LTD.
+PREMIUM FULL E-COMMERCE + B2B + IMPORT/EXPORT TRADING PLATFORM
+======================================================================
+
+IMPORTANT:
+READ THIS ENTIRE SPECIFICATION BEFORE WRITING ANY CODE.
+
+I need a COMPLETE, PRODUCTION-READY, MULTI-PAGE E-COMMERCE WEBSITE
+for:
+
+MAHALUXMI TRADING HOUSE PVT. LTD.
+
+This must NOT look like:
+- a simple PHP project
+- a generic Bootstrap shop
+- a cheap marketplace template
+- a basic catalogue
+- a one-page corporate website
+- a student project
+- a copied Amazon/Flipkart design
+
+The finished website must feel like a CUSTOM, PREMIUM, MODERN
+TRADING-HOUSE E-COMMERCE PLATFORM.
+
+It must combine:
+
+PREMIUM 3D VISUAL DESIGN
++
+FULL E-COMMERCE
++
+B2B / WHOLESALE
++
+IMPORT / EXPORT ENQUIRIES
++
+MULTI-CATEGORY PRODUCT MANAGEMENT
++
+CUSTOMER ACCOUNTS
++
+COMPLETE ORDER MANAGEMENT
++
+INVENTORY
++
+PAYMENTS
++
+SHIPPING
++
+COUPONS
++
+INVOICES
++
+REVIEWS
++
+ADVANCED ADMIN PANEL
++
+SEO
++
+SHARED-HOSTING COMPATIBILITY
+
+
+======================================================================
+01. COMPANY INFORMATION
+======================================================================
+
+COMPANY NAME:
+Mahaluxmi Trading House Pvt. Ltd.
+
+DIRECTOR:
+Sidhant Gupta
+
+REGISTERED ADDRESS:
+1st Floor, Plot No. 2029,
+The Mall Road,
+Bathinda, Punjab – 151001,
+India
+
+Additional supplied correspondence/address reference:
+Plot No. 2028, The Mall Road,
+Bathinda – 151001, Punjab
+
+IMPORTANT:
+There are two supplied plot numbers: 2028 and 2029.
+DO NOT silently choose one.
+
+Use 2029 as Registered Address only where explicitly stated in supplied
+company information.
+
+Create separate admin-editable fields for:
+- Registered Address
+- Office / Correspondence Address
+
+Ask the business to confirm the final public contact address before launch.
+
+CIN:
+U74999PB2019PTC049303
+
+STATUS:
+Active
+
+DATE OF INCORPORATION:
+5 April 2019
+
+DIRECTORS:
+Sudershan Gupta
+Sidhant Gupta
+
+EMAIL:
+mltradinghouse@gmail.com
+
+MOBILE:
++91 99888 88889
+
+PHONE:
++91 164 2250015
++91 164 5006992
+
+NATURE OF BUSINESS:
+Manufacturer
+Exporter
+Importer
+Wholesale Supplier
+Buyer
+Trader
+
+Business scope supplied includes:
+
+Electrical & Electronic Components
+Circuit Breakers
+Fuses
+Electric Motors
+Sensors
+Related Industrial Goods
+
+and:
+
+Agricultural & Processed Food
+Dry Fruits
+Nuts
+Peanuts
+Food Products
+Beverages
+
+Do NOT invent certifications, GST number, IEC, FSSAI number,
+ISO certification, turnover, export countries, warehouse capacity,
+client count, manufacturing facilities, awards or partnerships.
+
+Create admin fields for these so verified information can be added later.
+
+
+======================================================================
+02. STRICT TECHNOLOGY REQUIREMENT
+======================================================================
+
+THE WEBSITE WILL BE HOSTED ON NORMAL SHARED HOSTING / CPANEL.
+
+Use:
+
+CORE PHP 8+
+MYSQL
+HTML5
+CSS3
+VANILLA JAVASCRIPT
+AJAX / FETCH API
+
+Bootstrap 5 may be used selectively if required, but the final frontend
+must NOT look like Bootstrap.
+
+Permitted static frontend libraries may be used only when they can run
+directly from uploaded JS/CSS files without requiring a production
+Node server.
+
+DO NOT USE:
+
+Laravel
+WordPress
+WooCommerce
+React
+Next.js
+Vue
+Angular
+Node.js backend
+Express
+Python
+Django
+MongoDB
+Firebase as core database
+Docker
+Redis dependency
+VPS dependency
+npm production server
+
+Deployment must be:
+
+Upload to public_html
+→ Import database.sql
+→ Edit config.php
+→ Configure payment/email
+→ Website runs.
+
+
+======================================================================
+03. WEBSITE VISUAL DIRECTION
+======================================================================
+
+THIS IS CRITICAL.
+
+The website must feel visually expensive.
+
+Create a bespoke 3D trading/e-commerce experience.
+
+Suggested colour system:
+
+PRIMARY:
+#071A2F / deep midnight navy
+
+SECONDARY:
+#0D3B66 / rich business blue
+
+ELECTRIC ACCENT:
+#00B8D9 / cyan
+
+PREMIUM ACCENT:
+warm metallic gold
+
+BACKGROUND:
+#F7F9FC / soft cool white
+
+SURFACES:
+white + translucent glass
+
+TEXT:
+charcoal / navy
+
+Use metallic gold very selectively.
+
+DO NOT make everything gold.
+
+The website should communicate:
+
+TRUST
+GLOBAL TRADE
+QUALITY
+SCALE
+INDUSTRY
+RELIABILITY
+MODERN COMMERCE
+PREMIUM PROCUREMENT
+
+
+======================================================================
+04. 3D DESIGN LANGUAGE
+======================================================================
+
+3D IS A MAJOR PART OF THIS WEBSITE.
+
+But DO NOT make the site heavy or gimmicky.
+
+Create CSS/JavaScript-driven depth wherever possible.
+
+Use:
+
+perspective
+transform-style: preserve-3d
+layered glass cards
+parallax depth
+mouse-following card tilt
+floating products
+concentric rings
+orbital graphics
+3D category cubes
+light reflections
+animated gradients
+soft glows
+floating particles
+perspective grids
+depth shadows
+mask reveals
+3D carousel effects
+
+Avoid giant WebGL scenes if they hurt shared-hosting/mobile performance.
+
+All 3D effects must have lightweight mobile fallbacks.
+
+Respect:
+
+prefers-reduced-motion.
+
+
+======================================================================
+05. HOMEPAGE
+MINIMUM 15 PREMIUM SECTIONS
+======================================================================
+
+------------------------------------------------------------
+SECTION 01 — CINEMATIC 3D HERO
+------------------------------------------------------------
+
+Create a premium full viewport hero.
+
+LEFT 50–55%
+
+RIGHT 45–50%.
+
+LEFT:
+
+small animated badge:
+
+“Trade • Supply • Import • Export”
+
+H1:
+
+POWERING BUSINESS.
+CONNECTING MARKETS.
+DELIVERING VALUE.
+
+Use oversized editorial typography.
+
+Highlight one phrase with subtle cyan → blue → gold treatment.
+
+Paragraph:
+
+Introduce Mahaluxmi Trading House Pvt. Ltd. as a diversified trading
+business serving industrial and product supply requirements across
+multiple categories.
+
+Do not make unsupported claims.
+
+Primary CTA:
+
+SHOP PRODUCTS
+
+Secondary CTA:
+
+B2B / BULK ENQUIRY
+
+Third subtle link:
+
+Explore Our Business →
+
+Add trust/service chips:
+
+Wholesale
+Import
+Export
+Trading
+Business Supply
+
+
+------------------------------------------------------------
+RIGHT SIDE — 3D WORLD
+------------------------------------------------------------
+
+DO NOT PLACE A BASIC PRODUCT PHOTO.
+
+Create a large transparent 3D sphere / circular frame.
+
+Think:
+
+glass globe
++
+orbital rings
++
+perspective grid
++
+soft blue illumination
++
+gold points
++
+floating products
+
+Inside the circular environment automatically rotate between
+ADMIN-SELECTED FEATURED PRODUCTS.
+
+Examples:
+
+Dry Fruits
+Nuts
+Peanuts
+Electrical Components
+Circuit Breakers
+Sensors
+Motors
+Food Products
+
+ONLY use products actually created in CMS.
+
+Each slide:
+
+real/generated approved product image
+product name
+category
+price if enabled
+Shop Now
+
+Transition:
+
+fade
+depth movement
+small rotation
+scale
+light sweep
+
+Do not spin products unrealistically.
+
+Around the globe show floating labels:
+
+IMPORT
+EXPORT
+WHOLESALE
+RETAIL
+INDUSTRIAL
+AGRI & FOOD
+
+Create subtle animated global trade route lines behind the product.
+
+Hero should feel alive even when user does nothing.
+
+Mouse movement should create subtle depth.
+
+Mobile gets simplified 3D slider.
+
+
+------------------------------------------------------------
+SECTION 02 — BUSINESS CAPABILITIES
+------------------------------------------------------------
+
+Create premium animated strip:
+
+MANUFACTURER
+EXPORTER
+IMPORTER
+WHOLESALE SUPPLIER
+BUYER
+TRADER
+
+Use large typography + icon + hover.
+
+
+------------------------------------------------------------
+SECTION 03 — SHOP BY WORLD
+------------------------------------------------------------
+
+Instead of generic categories, create two dramatic visual worlds.
+
+CARD 1:
+
+INDUSTRIAL & ELECTRICAL
+
+Dark blue industrial environment.
+
+Show:
+electrical components
+circuit breakers
+fuses
+motors
+sensors
+
+CTA:
+Explore Industrial
+
+
+CARD 2:
+
+AGRI, FOOD & DRY FRUITS
+
+Warm premium environment.
+
+Show:
+almonds
+cashews
+nuts
+peanuts
+processed food
+beverages
+
+CTA:
+Explore Food & Agriculture
+
+On hover, cards should have subtle 3D depth.
+
+
+------------------------------------------------------------
+SECTION 04 — SHOP BY CATEGORY
+------------------------------------------------------------
+
+Database-driven category cards.
+
+Each:
+
+3D-style product visual
+category
+description
+product count
+Explore arrow
+
+Admin can reorder categories.
+
+
+------------------------------------------------------------
+SECTION 05 — FEATURED PRODUCTS
+------------------------------------------------------------
+
+Create premium product carousel/grid.
+
+Cards contain:
+
+image
+brand
+product name
+rating if genuine
+price
+old price if genuine
+discount if configured
+stock status
+wishlist
+quick view
+compare
+Add to Cart
+
+Hover:
+
+product rises slightly
+image zooms
+quick actions reveal.
+
+
+------------------------------------------------------------
+SECTION 06 — B2B / WHOLESALE
+------------------------------------------------------------
+
+Dark premium section.
+
+Heading:
+
+“Buying for Business?”
+
+Support:
+
+bulk quantity
+wholesale requirements
+institutional procurement
+dealer enquiries
+import/export requirements
+
+CTA:
+
+REQUEST BULK QUOTE
+
+SECONDARY:
+
+BECOME A BUSINESS CUSTOMER
+
+
+------------------------------------------------------------
+SECTION 07 — GLOBAL TRADE EXPERIENCE
+------------------------------------------------------------
+
+Create visually impressive world-trade section.
+
+Use abstract 3D globe/map.
+
+Lines originate from India and create trade-route visuals.
+
+IMPORTANT:
+Do not claim countries the company exports/imports from unless admin
+provides them.
+
+Admin can add:
+
+Country
+Type: Import / Export / Both
+Products
+Description
+
+Only then show route.
+
+
+------------------------------------------------------------
+SECTION 08 — BEST SELLERS
+------------------------------------------------------------
+
+Dynamic product slider.
+
+Show admin-defined bestselling products.
+
+Do not fabricate sales numbers.
+
+
+------------------------------------------------------------
+SECTION 09 — WHY MAHALUXMI
+------------------------------------------------------------
+
+Create six premium cards.
+
+Suggested editable themes:
+
+Diversified Product Portfolio
+B2B & Retail Ordering
+Wholesale Requirements
+Import & Export Support
+Business Procurement
+Responsive Assistance
+
+Avoid unsupported superlatives.
+
+
+------------------------------------------------------------
+SECTION 10 — IMMERSIVE VIDEO
+------------------------------------------------------------
+
+Large cinematic video section.
+
+Allow:
+
+company film
+product videos
+warehouse videos
+category videos
+educational videos
+
+Admin controlled.
+
+Use muted preview background where appropriate.
+
+Click → premium modal.
+
+
+------------------------------------------------------------
+SECTION 11 — FOOD CATEGORY EXPERIENCE
+------------------------------------------------------------
+
+Create rich visual section.
+
+Use premium generated imagery of:
+
+almonds
+cashews
+walnuts
+pistachios
+peanuts
+dry fruits
+
+ONLY if these categories/products are actually offered.
+
+Use warm natural photography with dark navy typography.
+
+CTA:
+Shop Food & Dry Fruits
+
+
+------------------------------------------------------------
+SECTION 12 — INDUSTRIAL EXPERIENCE
+------------------------------------------------------------
+
+Switch atmosphere to dark navy.
+
+Show high-end industrial imagery:
+
+circuit breakers
+electrical components
+motors
+sensors
+
+Use floating technical lines/grid.
+
+CTA:
+Explore Industrial Products
+
+
+------------------------------------------------------------
+SECTION 13 — OFFERS / PROMOTIONS
+------------------------------------------------------------
+
+Admin controlled promotional banners.
+
+Possible:
+
+Featured Category
+Seasonal Offer
+Bulk Purchase
+New Arrivals
+
+Never hard-code fake discounts.
+
+
+------------------------------------------------------------
+SECTION 14 — CUSTOMER REVIEWS
+------------------------------------------------------------
+
+Only genuine approved reviews.
+
+Admin moderation.
+
+Carousel.
+
+No fabricated ratings.
+
+
+------------------------------------------------------------
+SECTION 15 — KNOWLEDGE / BLOG
+------------------------------------------------------------
+
+Content cards for:
+
+product guides
+procurement
+industrial products
+food product education
+import/export updates
+company news
+
+Admin CMS.
+
+
+------------------------------------------------------------
+SECTION 16 — NEWSLETTER
+------------------------------------------------------------
+
+Elegant CTA:
+
+“Stay Ahead of New Products & Offers”
+
+Email subscription.
+
+Store consent.
+
+
+------------------------------------------------------------
+SECTION 17 — FINAL 3D CTA
+------------------------------------------------------------
+
+Create visually memorable CTA.
+
+Floating products around translucent central sphere.
+
+Heading:
+
+“ONE TRADING PARTNER.
+MULTIPLE POSSIBILITIES.”
+
+Buttons:
+
+SHOP NOW
+BULK ENQUIRY
+
+
+======================================================================
+06. HEADER
+======================================================================
+
+Create multi-level premium header.
+
+TOP BAR:
+
+Call
+Email
+Track Order
+Bulk Enquiry
+Help
+
+MAIN HEADER:
+
+Logo
+large search
+Account
+Wishlist
+Compare
+Cart
+
+NAVIGATION:
+
+Home
+Shop
+Industrial & Electrical
+Food & Agriculture
+Brands
+B2B
+Import & Export
+About
+Resources
+Contact
+
+Sticky after scroll.
+
+Desktop and mobile experiences must be separately designed.
+
+
+======================================================================
+07. MEGA MENU
+======================================================================
+
+Create full-width visual mega menu.
+
+Example:
+
+INDUSTRIAL
+
+Electrical Components
+Circuit Breakers
+Fuses
+Electric Motors
+Sensors
+
+FOOD & AGRICULTURE
+
+Dry Fruits
+Nuts
+Peanuts
+Processed Foods
+Beverages
+
+FEATURED
+
+New Arrivals
+Best Sellers
+Offers
+
+Right side:
+
+featured promotional image
+featured product
+CTA.
+
+All CMS driven.
+
+
+======================================================================
+08. SHOP PAGE
+======================================================================
+
+URL:
+
+/shop
+
+Create premium marketplace experience.
+
+Breadcrumb.
+
+Category header.
+
+Search.
+
+Desktop filter sidebar.
+
+Mobile filter drawer.
+
+Dynamic filters:
+
+Category
+Subcategory
+Brand
+Price
+Availability
+Rating
+Attributes
+
+ATTRIBUTES MUST CHANGE BY CATEGORY.
+
+Electrical example:
+
+Voltage
+Current
+Phase
+Power
+Brand
+Model
+
+Food example:
+
+Weight
+Pack Size
+Type
+Origin if verified
+Brand
+
+Use AJAX filtering.
+
+Sorting:
+
+Featured
+Newest
+Price Low–High
+Price High–Low
+Top Rated if real
+Name
+
+
+======================================================================
+09. PRODUCT CARDS
+======================================================================
+
+Each card:
+
+product image
+brand
+name
+short specification
+price
+MRP if supplied
+discount if configured
+stock
+rating if genuine
+
+Actions:
+
+Quick View
+Wishlist
+Compare
+Add to Cart
+
+For B2B-only product:
+
+REQUEST QUOTE
+
+Admin controls:
+
+purchasable online YES/NO
+quote-only YES/NO.
+
+
+======================================================================
+10. PRODUCT DETAIL PAGE
+======================================================================
+
+Create a world-class PDP.
+
+LEFT:
+
+large gallery
+thumbnails
+zoom
+fullscreen
+video
+optional 360° product view if assets exist
+
+RIGHT:
+
+brand
+title
+SKU
+rating
+review count
+price
+MRP
+discount
+tax message
+stock
+short description
+
+Dynamic variants.
+
+Example:
+
+Pack:
+250g
+500g
+1kg
+
+or:
+
+Voltage
+Model
+Rating
+
+Quantity stepper.
+
+ADD TO CART
+
+BUY NOW
+
+ADD TO WISHLIST
+
+COMPARE
+
+BULK QUOTE
+
+Show estimated shipping only when calculable.
+
+
+======================================================================
+11. PRODUCT DETAIL CONTENT
+======================================================================
+
+Below main product area:
+
+Description
+Specifications
+Features
+Usage / Applications
+Packaging
+Shipping
+Documents
+Video
+Reviews
+FAQs
+
+For food products allow fields:
+
+Ingredients
+Net Weight
+Nutrition
+Storage
+Shelf Life
+Allergen Information
+Country/Origin
+
+ONLY when verified.
+
+For electrical:
+
+Voltage
+Current
+Power
+Dimensions
+Model
+Technical Datasheet
+Applications
+
+Dynamic attribute system required.
+
+
+======================================================================
+12. RELATED PRODUCTS
+======================================================================
+
+You May Also Like
+
+Frequently Viewed / Related
+
+Recently Viewed.
+
+Do not fabricate purchase behaviour.
+
+
+======================================================================
+13. CART
+======================================================================
+
+Create premium AJAX cart.
+
+Cart drawer.
+
+Cart page.
+
+Features:
+
+image
+product
+variant
+price
+quantity
+subtotal
+remove
+save for later
+
+Coupon input.
+
+Cart totals.
+
+Continue Shopping.
+
+Secure Checkout.
+
+
+======================================================================
+14. BUY NOW
+======================================================================
+
+Buy Now skips cart and goes directly to checkout with selected item.
+
+
+======================================================================
+15. WISHLIST
+======================================================================
+
+Logged-in users:
+
+persistent wishlist.
+
+Guest:
+
+session/local storage wishlist with optional merge after login.
+
+
+======================================================================
+16. PRODUCT COMPARISON
+======================================================================
+
+Allow 2–4 comparable products.
+
+Table:
+
+Image
+Price
+Brand
+Specifications
+Stock
+Rating
+CTA
+
+Compare attributes relevant to category.
+
+
+======================================================================
+17. CUSTOMER REGISTRATION
+======================================================================
+
+Register:
+
+Full Name
+Email
+Phone
+Password
+
+Optional:
+
+Company Name
+GSTIN
+Business Type
+
+Email/phone verification can be configurable.
+
+Secure password hashing.
+
+
+======================================================================
+18. CUSTOMER ACCOUNT
+======================================================================
+
+/my-account
+
+Dashboard.
+
+Sections:
+
+Overview
+Orders
+Order Details
+Track Order
+Addresses
+Wishlist
+Reviews
+Profile
+Change Password
+Business Profile
+Logout
+
+
+======================================================================
+19. ADDRESS BOOK
+======================================================================
+
+Allow multiple addresses.
+
+Billing
+Shipping.
+
+Fields:
+
+Name
+Phone
+Address
+Landmark
+City
+State
+PIN
+Country
+
+Default address.
+
+
+======================================================================
+20. CHECKOUT
+======================================================================
+
+Create premium one-page / step checkout.
+
+STEP 1:
+Contact
+
+STEP 2:
+Delivery Address
+
+STEP 3:
+Shipping
+
+STEP 4:
+Payment
+
+STEP 5:
+Review
+
+
+Order summary remains visible.
+
+
+======================================================================
+21. GUEST CHECKOUT
+======================================================================
+
+Allow admin to enable/disable guest checkout.
+
+Guest user can purchase without account.
+
+Offer account creation after purchase.
+
+
+======================================================================
+22. TAX / GST ARCHITECTURE
+======================================================================
+
+Create configurable tax system.
+
+Do NOT invent tax percentages.
+
+Admin defines:
+
+Tax Name
+Percentage
+Category
+HSN/SAC if applicable
+Inclusive / Exclusive
+
+Product has:
+
+HSN
+tax class
+
+Generate tax breakup on invoice.
+
+GSTIN should be admin-editable.
+
+Do not publish a GSTIN unless client provides verified number.
+
+
+======================================================================
+23. SHIPPING SYSTEM
+======================================================================
+
+Admin creates shipping zones.
+
+Examples:
+
+Local
+Punjab
+Rest of India
+Custom
+
+Rules:
+
+Flat Rate
+Free Shipping
+Order Value Based
+Weight Based
+
+Do not hard-code courier promises.
+
+Store:
+
+tracking number
+courier name
+tracking URL.
+
+
+======================================================================
+24. PAYMENT GATEWAY
+======================================================================
+
+Create secure payment architecture.
+
+DO NOT build fake payment collection.
+
+Support configurable gateway integration such as:
+
+Razorpay
+Cash on Delivery
+Bank Transfer
+
+and allow future gateway modules.
+
+Gateway credentials must be in secure configuration/admin settings,
+not frontend JavaScript except required public keys.
+
+Use server-side order verification.
+
+Never store raw card information.
+
+
+======================================================================
+25. PAYMENT STATES
+======================================================================
+
+Pending
+Paid
+Failed
+Refunded
+Partially Refunded
+
+Record:
+
+gateway transaction ID
+gateway order ID
+payment method
+timestamp.
+
+
+======================================================================
+26. ORDER PLACEMENT
+======================================================================
+
+Generate unique order number.
+
+Example:
+
+MTH-2026-000001
+
+After successful checkout:
+
+create order
+create order items
+deduct inventory safely
+record payment
+send email
+show confirmation.
+
+Do not deduct final stock twice during retries.
+
+
+======================================================================
+27. ORDER CONFIRMATION
+======================================================================
+
+Beautiful page:
+
+THANK YOU FOR YOUR ORDER.
+
+Show:
+
+Order ID
+Products
+Payment
+Address
+Shipping
+Total
+
+Buttons:
+
+Track Order
+Continue Shopping.
+
+
+======================================================================
+28. EMAILS
+======================================================================
+
+Send professional HTML emails for:
+
+Welcome
+Order Received
+Payment Confirmed
+Order Processing
+Order Shipped
+Order Delivered
+Order Cancelled
+Refund
+Password Reset
+Bulk Quote Received
+
+Company also receives new-order notification.
+
+
+======================================================================
+29. ORDER TRACKING
+======================================================================
+
+Public:
+
+/track-order
+
+Order Number
+Email / Phone
+
+Timeline:
+
+Order Placed
+Confirmed
+Processing
+Packed
+Shipped
+Out for Delivery
+Delivered
+
+Only show statuses actually set.
+
+
+======================================================================
+30. INVOICE
+======================================================================
+
+Generate printable invoice.
+
+Include:
+
+Company
+Registered Address
+GSTIN if supplied
+CIN if appropriate
+Invoice No.
+Order No.
+Customer
+Billing Address
+Shipping Address
+Products
+HSN
+Qty
+Rate
+Tax
+Total
+Payment
+
+Invoice numbering configurable.
+
+Do not invent statutory fields.
+
+
+======================================================================
+31. INVENTORY
+======================================================================
+
+Each product/variant can track stock.
+
+Fields:
+
+SKU
+Opening Stock
+Current Stock
+Low Stock Threshold
+
+Inventory movements:
+
+Sale
+Cancellation
+Return
+Manual Adjustment
+
+Maintain movement history.
+
+Never simply overwrite stock without log.
+
+
+======================================================================
+32. OUT OF STOCK
+======================================================================
+
+If zero:
+
+OUT OF STOCK.
+
+Disable purchase.
+
+Optional:
+
+Notify Me When Available.
+
+Store request.
+
+Admin can email availability notification.
+
+
+======================================================================
+33. COUPONS
+======================================================================
+
+Admin can create:
+
+code
+percentage
+fixed amount
+minimum cart
+maximum discount
+start
+expiry
+usage limit
+per-user limit
+categories
+products
+
+Validate server-side.
+
+
+======================================================================
+34. B2B / WHOLESALE SYSTEM
+======================================================================
+
+This is important because company is a trading house.
+
+Create:
+
+/business
+
+Premium B2B page.
+
+Benefits/flows:
+
+Bulk Purchase
+Wholesale Supply
+Institutional Procurement
+Dealer Enquiries
+Import Requirements
+Export Enquiries
+
+Create B2B registration.
+
+Fields:
+
+Company
+Contact
+Phone
+Email
+GSTIN
+City
+Business Type
+Products Interested In
+Estimated Quantity
+
+Admin approves/rejects business account.
+
+Optionally assign:
+
+Wholesale Price Tier.
+
+Do not expose wholesale pricing before approval if configured.
+
+
+======================================================================
+35. REQUEST BULK QUOTE
+======================================================================
+
+From any product:
+
+REQUEST BULK QUOTE.
+
+Form:
+
+Product
+Variant
+Quantity
+Company
+Contact Person
+Phone
+Email
+Destination
+Requirement Date
+Message
+
+Store in admin + email.
+
+
+======================================================================
+36. IMPORT / EXPORT PAGE
+======================================================================
+
+Create premium global trade page.
+
+Sections:
+
+Hero
+Business Capability
+Product Categories
+Import Enquiries
+Export Enquiries
+Process
+Markets
+FAQ
+CTA
+
+Only show countries/markets verified by admin.
+
+Create:
+
+REQUEST IMPORT/EXPORT QUOTE.
+
+
+======================================================================
+37. ABOUT US PAGE
+MINIMUM 8 SECTIONS
+======================================================================
+
+Do NOT create boring About page.
+
+SECTION 1:
+3D Corporate Hero
+
+MAHALUXMI TRADING HOUSE PVT. LTD.
+
+“Trade Built Around Opportunity.”
+
+SECTION 2:
+Who We Are
+
+Use verified company details.
+
+SECTION 3:
+Our Journey
+
+Timeline begins:
+5 April 2019
+
+Only add later milestones if provided.
+
+SECTION 4:
+What We Do
+
+Manufacturer
+Exporter
+Importer
+Wholesale Supplier
+Buyer
+Trader
+
+SECTION 5:
+Our Business Verticals
+
+Industrial & Electrical
+Agriculture & Food
+
+SECTION 6:
+Leadership
+
+Sudershan Gupta
+Sidhant Gupta
+
+Use photos only if supplied.
+
+SECTION 7:
+How We Work
+
+Source
+Evaluate
+Trade
+Supply
+Support
+
+SECTION 8:
+Our Approach
+
+Quality
+Transparency
+Responsiveness
+Long-Term Business Relationships
+
+Keep claims editable.
+
+SECTION 9:
+Global Trade Visual
+
+Admin-managed markets.
+
+SECTION 10:
+CTA
+
+Start a Business Conversation.
+
+
+======================================================================
+38. CONTACT PAGE
+======================================================================
+
+Create premium contact page.
+
+Company:
+
+Mahaluxmi Trading House Pvt. Ltd.
+
+Registered Address:
+
+1st Floor, Plot No. 2029,
+The Mall Road,
+Bathinda,
+Punjab 151001,
+India
+
+Mobile:
++91 99888 88889
+
+Phone:
++91 164 2250015
++91 164 5006992
+
+Email:
+mltradinghouse@gmail.com
+
+Show:
+
+Call
+Email
+WhatsApp if approved
+Directions
+
+Embed Google Map only after exact public location is confirmed.
+
+Contact form:
+
+Name
+Company
+Phone
+Email
+Subject
+Message
+
+Store in database + email.
+
+
+======================================================================
+39. GOOGLE MAPS
+======================================================================
+
+Admin settings:
+
+Map Embed URL
+Google Place URL
+Directions URL
+Latitude
+Longitude
+
+Buttons:
+
+VIEW ON GOOGLE MAPS
+GET DIRECTIONS
+
+Do not invent coordinates.
+
+
+======================================================================
+40. BLOG / RESOURCES
+======================================================================
+
+Create complete blog.
+
+Categories:
+
+Industrial Guides
+Electrical Products
+Food & Agriculture
+Buying Guides
+Business
+Import / Export
+Company News
+
+Admin CMS:
+
+Title
+Slug
+Featured Image
+Excerpt
+Content
+Author
+Category
+Tags
+Publish Date
+Meta
+OG Image
+Status.
+
+
+======================================================================
+41. VIDEO SYSTEM
+======================================================================
+
+Videos must appear throughout site.
+
+Create dedicated:
+
+/videos
+
+Categories:
+
+Product Videos
+Industrial
+Food
+Business
+Company
+
+Support:
+
+YouTube
+Vimeo
+uploaded MP4 where hosting allows.
+
+Videos can be attached to:
+
+Homepage
+Products
+Categories
+About
+Blogs.
+
+
+======================================================================
+42. REVIEWS
+======================================================================
+
+Verified customers can submit product review.
+
+Fields:
+
+Rating
+Title
+Review
+Images optional
+
+Admin moderation.
+
+Do not publish until approved.
+
+Mark verified purchase when truly verified.
+
+
+======================================================================
+43. SEARCH
+======================================================================
+
+Create powerful AJAX search.
+
+Search:
+
+products
+SKU
+brands
+categories
+blog
+
+As user types:
+
+show product image
+name
+price
+category.
+
+Create:
+
+View All Results.
+
+
+======================================================================
+44. ADMIN PANEL
+======================================================================
+
+THE ADMIN PANEL MUST LOOK LIKE A REAL COMMERCIAL PLATFORM.
+
+Use:
+
+dark navy sidebar
+white content
+cyan indicators
+subtle gold highlights
+
+Responsive.
+
+SIDEBAR:
+
+Dashboard
+
+CATALOG
+Products
+Categories
+Subcategories
+Brands
+Attributes
+Inventory
+Reviews
+
+ORDERS
+All Orders
+Pending
+Processing
+Shipped
+Delivered
+Cancelled
+Returns
+
+CUSTOMERS
+Customers
+Business Customers
+B2B Approvals
+
+SALES
+Coupons
+Offers
+Bulk Quotes
+
+CONTENT
+Homepage
+Pages
+About
+Industries
+Blogs
+Videos
+FAQs
+Testimonials
+
+MARKETING
+Newsletter
+SEO
+Redirects
+
+SYSTEM
+Media
+Taxes
+Shipping
+Payments
+Email
+Social Media
+Users/Admins
+Settings
+Activity Log
+
+
+======================================================================
+45. ADMIN DASHBOARD
+======================================================================
+
+Cards:
+
+Today's Orders
+Today's Revenue
+Pending Orders
+Low Stock
+Customers
+Bulk Enquiries
+
+Charts:
+
+Sales
+Orders
+Category Sales
+
+Tables:
+
+Recent Orders
+Low Stock Products
+Pending B2B Approvals
+Bulk Quote Requests.
+
+Do not calculate fake analytics.
+
+
+======================================================================
+46. PRODUCT CMS
+======================================================================
+
+Admin fields:
+
+Product Name
+Slug
+SKU
+Brand
+Category
+Subcategory
+Product Type
+Short Description
+Full Description
+Price
+MRP
+Cost optional
+Tax Class
+HSN
+Stock
+Low Stock
+Weight
+Dimensions
+Featured
+Best Seller
+New Arrival
+Purchasable
+Quote Only
+Status
+
+Images.
+
+Video.
+
+Documents.
+
+SEO.
+
+
+======================================================================
+47. VARIANT SYSTEM
+======================================================================
+
+Build proper variants.
+
+Example Food:
+
+250g
+500g
+1kg
+
+Example Electrical:
+
+Model A
+Model B
+
+Each variant:
+
+SKU
+price
+MRP
+stock
+weight
+image
+status.
+
+
+======================================================================
+48. MEDIA LIBRARY
+======================================================================
+
+Upload:
+
+JPG
+PNG
+WebP
+AVIF if supported
+PDF
+MP4
+
+Validate MIME.
+
+Safe random filenames.
+
+Alt text.
+
+Search.
+
+Folders/categories.
+
+
+======================================================================
+49. IMAGE GENERATION REQUIREMENT
+======================================================================
+
+WHERE BUSINESS-SPECIFIC PHOTOGRAPHY IS NOT PROVIDED,
+CREATE / GENERATE ORIGINAL PREMIUM VISUALS.
+
+Generate images appropriate for each section.
+
+IMPORTANT:
+
+Do NOT create fake branded products.
+
+For generic category banners, generate realistic unbranded visual scenes.
+
+HERO IMAGE PROMPT:
+
+“Premium photorealistic 3D commercial trading composition for an Indian
+import-export and wholesale company, transparent glass globe at centre,
+elegant floating generic electrical components on one side and premium
+dry fruits/nuts packaging and ingredients on the other, subtle global
+trade route lines, deep midnight navy background, cyan rim lighting,
+restrained metallic gold accents, sophisticated corporate lighting,
+high-end B2B e-commerce aesthetic, realistic shadows, generous negative
+space, no text, no logos, no fake brands.”
+
+INDUSTRIAL CATEGORY PROMPT:
+
+“Premium photorealistic industrial electrical product environment,
+generic circuit breakers, precision sensors, electric motor components,
+modern clean warehouse/technical setting, deep navy and cool blue
+lighting, subtle cyan technical lines, high-end commercial product
+photography, no text, no logos, no fake brands.”
+
+FOOD CATEGORY PROMPT:
+
+“Luxury commercial food ingredients composition with almonds, cashews,
+walnuts, pistachios and peanuts arranged elegantly, premium clean
+packaging environment, warm natural light balanced with sophisticated
+navy background accents, high-end wholesale food catalogue photography,
+no text, no logos, no fake brands.”
+
+B2B PROMPT:
+
+“Premium corporate procurement scene, modern business professionals
+reviewing products and supply documents in an elegant commercial
+environment, subtle warehouse depth in background, blue corporate
+lighting, trustworthy B2B atmosphere, photorealistic, no visible
+brand logos, no text.”
+
+IMPORT/EXPORT PROMPT:
+
+“Cinematic premium global commerce scene, transparent illuminated globe,
+cargo containers and logistics silhouettes used subtly, elegant trade
+route arcs, India highlighted only as geographic origin context without
+political styling, deep navy atmosphere, cyan and restrained gold
+lighting, sophisticated corporate import-export aesthetic, no text,
+no logos.”
+
+Use responsive crops.
+
+Do not generate text inside images.
+
+
+======================================================================
+50. HOMEPAGE CMS
+======================================================================
+
+Admin must control:
+
+Hero title
+Hero text
+Hero products
+Hero slides
+CTAs
+Category order
+Featured products
+B2B section
+Videos
+Promotions
+Testimonials
+Blog section
+Final CTA
+
+No developer needed for routine content changes.
+
+
+======================================================================
+51. SEO
+======================================================================
+
+Create strong technical SEO.
+
+Clean URLs:
+
+/shop
+/category/dry-fruits
+/category/circuit-breakers
+/product/product-name
+/about
+/business
+/import-export
+/blog/article-name
+
+Not:
+
+product.php?id=44
+
+Use .htaccess routing.
+
+Every page:
+
+title
+description
+canonical
+OG title
+OG description
+OG image
+robots
+breadcrumbs.
+
+
+======================================================================
+52. PRODUCT SEO
+======================================================================
+
+Product schema only using real data.
+
+Include when available:
+
+name
+image
+description
+SKU
+brand
+offers
+availability
+price
+currency
+review aggregate only if genuine.
+
+Never create fake review schema.
+
+
+======================================================================
+53. STRUCTURED DATA
+======================================================================
+
+Use where valid:
+
+Organization
+WebSite
+SearchAction where valid
+Product
+Offer
+BreadcrumbList
+Article
+VideoObject
+FAQPage where appropriate.
+
+
+======================================================================
+54. SITEMAP
+======================================================================
+
+Dynamic sitemap.
+
+Include:
+
+pages
+categories
+products
+blogs
+videos where appropriate.
+
+Update automatically from database.
+
+
+======================================================================
+55. LLMS.TXT
+======================================================================
+
+Create:
+
+/llms.txt
+
+Include:
+
+company name
+business description
+important categories
+key URLs
+contact
+business page
+import/export
+shop.
+
+Factual only.
+
+
+======================================================================
+56. PERFORMANCE
+======================================================================
+
+Even with 3D effects, site must remain fast.
+
+Use:
+
+WebP/AVIF
+srcset
+lazy loading
+hero preload
+CSS transforms
+requestAnimationFrame
+deferred JS
+minified production files
+browser caching
+GZIP/Brotli where hosting permits
+indexed queries
+pagination.
+
+Avoid enormous JavaScript bundles.
+
+3D animations should generally use GPU-friendly:
+
+transform
+opacity
+
+instead of expensive layout changes.
+
+
+======================================================================
+57. MOBILE
+======================================================================
+
+DO NOT simply shrink desktop.
+
+Create dedicated mobile UX.
+
+Bottom sticky navigation:
+
+HOME
+SHOP
+SEARCH
+ACCOUNT
+CART
+
+Product page sticky:
+
+ADD TO CART
+BUY NOW
+
+Mobile filter drawer.
+
+Mobile search overlay.
+
+Touch-friendly 3D carousel.
+
+
+======================================================================
+58. SECURITY
+======================================================================
+
+MANDATORY:
+
+PDO
+prepared statements
+CSRF protection
+XSS escaping
+password_hash
+password_verify
+secure session cookies
+session regeneration
+login throttling
+form rate limits
+server-side validation
+MIME validation
+upload whitelist
+safe filenames
+admin permissions
+
+Never trust client-side totals.
+
+Recalculate cart totals server-side before creating order.
+
+Verify coupons server-side.
+
+Verify payment server-side.
+
+
+======================================================================
+59. DATABASE
+======================================================================
+
+Use MySQL InnoDB utf8mb4.
+
+Create appropriate tables such as:
+
+admins
+admin_roles
+customers
+customer_addresses
+business_accounts
+
+products
+product_variants
+product_images
+product_documents
+
+categories
+subcategories
+brands
+
+attributes
+attribute_values
+product_attribute_values
+
+carts
+cart_items
+
+wishlists
+wishlist_items
+
+orders
+order_items
+order_status_history
+
+payments
+
+invoices
+
+inventory_movements
+
+shipping_zones
+shipping_methods
+
+tax_classes
+tax_rates
+
+coupons
+coupon_usage
+
+reviews
+
+bulk_quotes
+bulk_quote_items
+
+contact_messages
+
+newsletter_subscribers
+
+pages
+
+blogs
+blog_categories
+
+videos
+
+faqs
+
+testimonials
+
+media
+
+site_settings
+social_links
+
+seo_meta
+redirects
+
+admin_activity_logs
+
+password_reset_tokens
+
+stock_notifications
+
+Use proper indexes.
+
+Use foreign keys where appropriate.
+
+
+======================================================================
+60. DATABASE TRANSACTIONS
+======================================================================
+
+Critical operations such as:
+
+order creation
+payment confirmation
+stock deduction
+
+must use transactions where appropriate.
+
+Prevent:
+
+duplicate orders
+double stock deduction
+duplicate payment processing.
+
+
+======================================================================
+61. PAYMENT WEBHOOK / CALLBACK
+======================================================================
+
+Where supported by selected gateway:
+
+create secure callback/webhook endpoint.
+
+Verify gateway signature.
+
+Never trust:
+
+“payment_success=true”
+
+from frontend alone.
+
+
+======================================================================
+62. RETURN / CANCELLATION SYSTEM
+======================================================================
+
+Admin configurable.
+
+Customer can request cancellation based on configured rules.
+
+Return request:
+
+Order
+Product
+Reason
+Description
+Images optional
+
+Statuses:
+
+Requested
+Approved
+Rejected
+Pickup/Return in Progress
+Received
+Refunded
+
+Do not promise return eligibility universally.
+
+
+======================================================================
+63. CUSTOMER SUPPORT
+======================================================================
+
+Floating actions:
+
+Call
+WhatsApp if approved
+Email
+Bulk Quote
+
+Create FAQ.
+
+Contact form.
+
+Order help.
+
+
+======================================================================
+64. WHATSAPP
+======================================================================
+
+Admin sets WhatsApp number.
+
+Product page message:
+
+“Hello Mahaluxmi Trading House, I am interested in [PRODUCT NAME],
+SKU [SKU]. Please share more details.”
+
+Cart enquiry can include product summary without exposing sensitive data.
+
+
+======================================================================
+65. FOOTER
+======================================================================
+
+Large premium footer.
+
+Logo / Company.
+
+Short introduction.
+
+Columns:
+
+SHOP
+Industrial
+Food & Agriculture
+Brands
+Offers
+
+BUSINESS
+Wholesale
+B2B
+Import / Export
+Bulk Quote
+
+COMPANY
+About
+Leadership
+Blog
+Videos
+Contact
+
+SUPPORT
+Track Order
+Account
+Shipping
+Returns
+FAQ
+
+CONTACT
+
+Mahaluxmi Trading House Pvt. Ltd.
+
+Registered Address:
+1st Floor, Plot No. 2029,
+The Mall Road,
+Bathinda, Punjab 151001
+
++91 99888 88889
++91 164 2250015
++91 164 5006992
+mltradinghouse@gmail.com
+
+Add CIN:
+U74999PB2019PTC049303
+
+Legal:
+
+Privacy
+Terms
+Shipping Policy
+Cancellation
+Return/Refund
+Cookie Policy
+
+Dynamic year.
+
+
+======================================================================
+66. REQUIRED LEGAL PAGES
+======================================================================
+
+Create editable templates:
+
+Privacy Policy
+Terms & Conditions
+Shipping Policy
+Cancellation Policy
+Return & Refund Policy
+Cookie Policy
+Disclaimer
+
+DO NOT invent final legal commitments.
+
+Mark templates for business/legal review before launch.
+
+
+======================================================================
+67. 404 PAGE
+======================================================================
+
+Create custom animated 404.
+
+Use floating 3D package/product visual.
+
+Headline:
+
+“Looks Like This Product Took Another Route.”
+
+Buttons:
+
+SHOP PRODUCTS
+GO HOME
+
+
+======================================================================
+68. LOADING / MICROINTERACTIONS
+======================================================================
+
+Create subtle branded loading states.
+
+Skeleton loaders for products.
+
+Cart animation.
+
+Wishlist heart animation.
+
+Success check animation.
+
+Do not use annoying full-page loaders on every navigation.
+
+
+======================================================================
+69. COMPLETE PROJECT STRUCTURE
+======================================================================
+
+Use professional PHP structure such as:
+
+/public_html
+
+index.php
+shop.php
+category.php
+product.php
+cart.php
+checkout.php
+order-success.php
+track-order.php
+account.php
+login.php
+register.php
+wishlist.php
+compare.php
+business.php
+bulk-quote.php
+import-export.php
+about.php
+contact.php
+blog.php
+article.php
+videos.php
+search.php
+404.php
+
+privacy.php
+terms.php
+shipping-policy.php
+return-policy.php
+
+.htaccess
+robots.txt
+sitemap.php
+llms.txt
+
+/includes
+    config.php
+    db.php
+    functions.php
+    auth.php
+    csrf.php
+    cart-functions.php
+    order-functions.php
+    payment-functions.php
+    shipping-functions.php
+    tax-functions.php
+    mailer.php
+    header.php
+    footer.php
+    seo.php
+    schema.php
+
+/ajax
+    search.php
+    cart-add.php
+    cart-update.php
+    wishlist.php
+    filters.php
+    coupon.php
+
+/payment
+    create-order.php
+    verify.php
+    callback.php
+
+/assets
+    css
+    js
+    images
+    icons
+    uploads
+
+/admin
+    login.php
+    dashboard.php
+
+    /products
+    /categories
+    /brands
+    /attributes
+    /orders
+    /inventory
+    /customers
+    /business
+    /quotes
+    /reviews
+    /coupons
+    /shipping
+    /taxes
+    /payments
+    /pages
+    /blogs
+    /videos
+    /media
+    /seo
+    /settings
+
+/database
+    database.sql
+
+
+======================================================================
+70. ADMIN ROLES
+======================================================================
+
+Prepare role-based permissions.
+
+Examples:
+
+Super Admin
+Order Manager
+Catalogue Manager
+Content Manager
+
+Super Admin controls permissions.
+
+Do not allow content staff to access sensitive payment configuration
+unless permitted.
+
+
+======================================================================
+71. ANALYTICS READY
+======================================================================
+
+Create admin settings for:
+
+GA4 Measurement ID
+Google Tag Manager
+Meta Pixel
+
+Do not hard-code IDs.
+
+Create ecommerce event hooks for:
+
+view_item
+add_to_cart
+begin_checkout
+purchase
+
+only after proper configuration.
+
+
+======================================================================
+72. EMAIL / SMTP
+======================================================================
+
+Because website runs on shared hosting, create configurable mail layer.
+
+Admin/configuration:
+
+SMTP Host
+Port
+Username
+Password
+Encryption
+From Email
+From Name
+
+Protect credentials.
+
+Provide hosting-compatible fallback only if necessary.
+
+
+======================================================================
+73. BACKUP / MAINTENANCE
+======================================================================
+
+Provide instructions for:
+
+database backup
+uploads backup
+site migration
+changing domain
+changing email
+changing payment credentials
+
+Create maintenance mode toggle for admin.
+
+
+======================================================================
+74. FINAL QUALITY REQUIREMENT
+======================================================================
+
+Before calling the project complete, manually verify:
+
+HOME
+15+ homepage sections
+3D hero
+3D product carousel
+animations
+mobile animation fallback
+
+SHOP
+categories
+filters
+search
+sorting
+pagination
+
+PRODUCT
+gallery
+variants
+price
+stock
+wishlist
+compare
+cart
+buy now
+bulk quote
+reviews
+documents
+videos
+
+CUSTOMER
+register
+login
+forgot password
+account
+addresses
+orders
+wishlist
+
+CART
+quantity
+coupon
+totals
+
+CHECKOUT
+address
+shipping
+tax
+payment
+validation
+
+PAYMENT
+success
+failure
+verification
+duplicate callback protection
+
+ORDER
+database
+email
+stock
+tracking
+invoice
+
+ADMIN
+login
+dashboard
+products
+variants
+categories
+orders
+inventory
+customers
+B2B
+quotes
+coupons
+reviews
+content
+SEO
+settings
+
+TECHNICAL
+404
+sitemap
+robots
+llms
+canonical
+schema
+responsive
+security
+performance
+accessibility
+
+
+======================================================================
+75. FINAL DELIVERY
+======================================================================
+
+DO NOT ONLY EXPLAIN HOW TO BUILD IT.
+
+BUILD THE COMPLETE PROJECT.
+
+Deliver:
+
+all PHP files
+all CSS
+all JavaScript
+all SQL
+all generated/approved assets
+database.sql
+.htaccess
+robots.txt
+sitemap
+llms.txt
+admin panel
+payment architecture
+email templates
+invoice
+customer dashboard
+installation guide
+cPanel guide
+
+Provide:
+
+PHP version requirements
+PHP extension requirements
+database import steps
+config setup
+SMTP setup
+payment gateway setup
+cron instructions if any
+folder permissions
+security checklist
+
+
+======================================================================
+FINAL CREATIVE DIRECTION
+======================================================================
+
+THE SITE SHOULD LOOK LIKE A ₹5–10 LAKH CUSTOM E-COMMERCE PLATFORM,
+NOT A ₹10,000 TEMPLATE.
+
+When someone lands on the homepage they should immediately see:
+
+premium visual identity
++
+3D product presentation
++
+large trading-company scale
++
+two distinct business worlds
++
+professional e-commerce
++
+B2B capabilities.
+
+Use animation intelligently.
+
+Use images generously.
+
+Use video strategically.
+
+Create visual storytelling.
+
+Make every section feel intentionally designed.
+
+Maintain one consistent visual language throughout:
+
+MIDNIGHT NAVY
++
+ELECTRIC CYAN
++
+WHITE
++
+RESTRAINED METALLIC GOLD.
+
+Most importantly:
+
+DO NOT SACRIFICE SPEED OR USABILITY FOR 3D EFFECTS.
+
+The finished website must be beautiful,
+commercially usable,
+secure,
+mobile-friendly,
+SEO-ready,
+admin-manageable,
+and fully deployable on normal PHP/MySQL shared hosting.
+
+======================================================================
+END OF MASTER SPECIFICATION
+======================================================================

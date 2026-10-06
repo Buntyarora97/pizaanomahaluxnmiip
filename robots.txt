@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /checkout.php
+Disallow: /account.php
+Disallow: /ajax/
+
+Sitemap: https://yourdomain.com/sitemap.php

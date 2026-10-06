@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="crestTitle crestDesc">
+  <title id="crestTitle">Mahaluxmi Trading House heritage crest</title>
+  <desc id="crestDesc">An antique-gold Indian arch crest with an MTH monogram.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4D991"/>
+      <stop offset=".48" stop-color="#D6AA55"/>
+      <stop offset="1" stop-color="#A66F2E"/>
+    </linearGradient>
+  </defs>
+  <path d="M90 7c13 16 38 19 54 38 13 15 19 34 18 55l-2 26c-2 20-31 36-70 48-39-12-68-28-70-48l-2-26c-1-21 5-40 18-55C52 26 77 23 90 7Z" fill="#4B1118" stroke="url(#gold)" stroke-width="3"/>
+  <path d="M90 16c12 14 34 17 48 34 11 13 16 29 15 49l-2 25c-1 14-25 28-61 40-36-12-60-26-61-40l-2-25c-1-20 4-36 15-49 14-17 36-20 48-34Z" fill="none" stroke="#F3E8D2" stroke-opacity=".7" stroke-width="1.2"/>
+  <path d="M28 91c8-9 16-13 24-10 7 2 10 8 15 13m85-3c-8-9-16-13-24-10-7 2-10 8-15 13" fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 111c7-5 13-5 18 0m98 0c-7-5-13-5-18 0" fill="none" stroke="#D6AA55" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M90 27c3 5 7 7 12 8-5 2-9 5-12 10-3-5-7-8-12-10 5-1 9-3 12-8Z" fill="url(#gold)"/>
+  <circle cx="90" cy="46" r="3" fill="#F3E8D2"/>
+  <path d="M47 67c9 6 15 15 17 26m69-26c-9 6-15 15-17 26" fill="none" stroke="#D6AA55" stroke-opacity=".9" stroke-width="1.4"/>
+  <path d="M45 71c-5-6-11-7-17-5 4 4 6 9 5 15m102-10c5-6 11-7 17-5-4 4-6 9-5 15" fill="none" stroke="#D6AA55" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M58 121h64m-56 6h48" stroke="#D6AA55" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="90" y="111" fill="#F3E8D2" font-family="Georgia,'Times New Roman',serif" font-size="35" font-weight="700" letter-spacing="1.2" text-anchor="middle">MTH</text>
+  <path d="M74 138c5 2 10 3 16 3s11-1 16-3" fill="none" stroke="#D6AA55" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="39" cy="95" r="2.2" fill="#F3E8D2"/>
+  <circle cx="141" cy="95" r="2.2" fill="#F3E8D2"/>
+  <path d="m90 157 3 4-3 4-3-4 3-4Z" fill="url(#gold)"/>
+</svg>
